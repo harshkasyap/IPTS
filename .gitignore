@@ -1,3 +1,7 @@
+# Project-Specific
+results.txt
+processed_avl_data.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
